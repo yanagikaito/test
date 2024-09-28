@@ -1,3 +1,3 @@
 # sample
-# test
-"# sample" 
+
+テスト用のリポジトリです。
